@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ol,ul,a{
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.card_container{
+  display: flex;
+  flex-wrap: wrap;
+}
